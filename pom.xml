@@ -5,6 +5,7 @@
   <groupId>com.findinpath</groupId>
   <artifactId>cucumber-kotlin-selenide-example</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <description>Kotlin port for the project https://github.com/selenide-examples/cucumber</description>
 
   <properties>
     <java.version>11</java.version>
